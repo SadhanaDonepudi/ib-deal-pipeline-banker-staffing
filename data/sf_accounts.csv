@@ -1,0 +1,321 @@
+account_id,account_name,industry_group,account_type,hq_state
+A0001,Synthetic Client 001 Group,Healthcare,Private Company,CA
+A0002,Synthetic Client 002 Partners,Industrial,Sponsor / PE,TX
+A0003,Synthetic Client 003 Industries,Technology & Services,Family Office,IL
+A0004,Synthetic Client 004 Capital,Consumer,Public Company,MA
+A0005,Synthetic Client 005 Holdings,Healthcare,Private Company,WA
+A0006,Synthetic Client 006 Group,Industrial,Sponsor / PE,FL
+A0007,Synthetic Client 007 Partners,Technology & Services,Family Office,CO
+A0008,Synthetic Client 008 Industries,Consumer,Public Company,NY
+A0009,Synthetic Client 009 Capital,Healthcare,Private Company,CA
+A0010,Synthetic Client 010 Holdings,Industrial,Sponsor / PE,TX
+A0011,Synthetic Client 011 Group,Technology & Services,Family Office,IL
+A0012,Synthetic Client 012 Partners,Consumer,Public Company,MA
+A0013,Synthetic Client 013 Industries,Healthcare,Private Company,WA
+A0014,Synthetic Client 014 Capital,Industrial,Sponsor / PE,FL
+A0015,Synthetic Client 015 Holdings,Technology & Services,Family Office,CO
+A0016,Synthetic Client 016 Group,Consumer,Public Company,NY
+A0017,Synthetic Client 017 Partners,Healthcare,Private Company,CA
+A0018,Synthetic Client 018 Industries,Industrial,Sponsor / PE,TX
+A0019,Synthetic Client 019 Capital,Technology & Services,Family Office,IL
+A0020,Synthetic Client 020 Holdings,Consumer,Public Company,MA
+A0021,Synthetic Client 021 Group,Healthcare,Private Company,WA
+A0022,Synthetic Client 022 Partners,Industrial,Sponsor / PE,FL
+A0023,Synthetic Client 023 Industries,Technology & Services,Family Office,CO
+A0024,Synthetic Client 024 Capital,Consumer,Public Company,NY
+A0025,Synthetic Client 025 Holdings,Healthcare,Private Company,CA
+A0026,Synthetic Client 026 Group,Industrial,Sponsor / PE,TX
+A0027,Synthetic Client 027 Partners,Technology & Services,Family Office,IL
+A0028,Synthetic Client 028 Industries,Consumer,Public Company,MA
+A0029,Synthetic Client 029 Capital,Healthcare,Private Company,WA
+A0030,Synthetic Client 030 Holdings,Industrial,Sponsor / PE,FL
+A0031,Synthetic Client 031 Group,Technology & Services,Family Office,CO
+A0032,Synthetic Client 032 Partners,Consumer,Public Company,NY
+A0033,Synthetic Client 033 Industries,Healthcare,Private Company,CA
+A0034,Synthetic Client 034 Capital,Industrial,Sponsor / PE,TX
+A0035,Synthetic Client 035 Holdings,Technology & Services,Family Office,IL
+A0036,Synthetic Client 036 Group,Consumer,Public Company,MA
+A0037,Synthetic Client 037 Partners,Healthcare,Private Company,WA
+A0038,Synthetic Client 038 Industries,Industrial,Sponsor / PE,FL
+A0039,Synthetic Client 039 Capital,Technology & Services,Family Office,CO
+A0040,Synthetic Client 040 Holdings,Consumer,Public Company,NY
+A0041,Synthetic Client 041 Group,Healthcare,Private Company,CA
+A0042,Synthetic Client 042 Partners,Industrial,Sponsor / PE,TX
+A0043,Synthetic Client 043 Industries,Technology & Services,Family Office,IL
+A0044,Synthetic Client 044 Capital,Consumer,Public Company,MA
+A0045,Synthetic Client 045 Holdings,Healthcare,Private Company,WA
+A0046,Synthetic Client 046 Group,Industrial,Sponsor / PE,FL
+A0047,Synthetic Client 047 Partners,Technology & Services,Family Office,CO
+A0048,Synthetic Client 048 Industries,Consumer,Public Company,NY
+A0049,Synthetic Client 049 Capital,Healthcare,Private Company,CA
+A0050,Synthetic Client 050 Holdings,Industrial,Sponsor / PE,TX
+A0051,Synthetic Client 051 Group,Technology & Services,Family Office,IL
+A0052,Synthetic Client 052 Partners,Consumer,Public Company,MA
+A0053,Synthetic Client 053 Industries,Healthcare,Private Company,WA
+A0054,Synthetic Client 054 Capital,Industrial,Sponsor / PE,FL
+A0055,Synthetic Client 055 Holdings,Technology & Services,Family Office,CO
+A0056,Synthetic Client 056 Group,Consumer,Public Company,NY
+A0057,Synthetic Client 057 Partners,Healthcare,Private Company,CA
+A0058,Synthetic Client 058 Industries,Industrial,Sponsor / PE,TX
+A0059,Synthetic Client 059 Capital,Technology & Services,Family Office,IL
+A0060,Synthetic Client 060 Holdings,Consumer,Public Company,MA
+A0061,Synthetic Client 061 Group,Healthcare,Private Company,WA
+A0062,Synthetic Client 062 Partners,Industrial,Sponsor / PE,FL
+A0063,Synthetic Client 063 Industries,Technology & Services,Family Office,CO
+A0064,Synthetic Client 064 Capital,Consumer,Public Company,NY
+A0065,Synthetic Client 065 Holdings,Healthcare,Private Company,CA
+A0066,Synthetic Client 066 Group,Industrial,Sponsor / PE,TX
+A0067,Synthetic Client 067 Partners,Technology & Services,Family Office,IL
+A0068,Synthetic Client 068 Industries,Consumer,Public Company,MA
+A0069,Synthetic Client 069 Capital,Healthcare,Private Company,WA
+A0070,Synthetic Client 070 Holdings,Industrial,Sponsor / PE,FL
+A0071,Synthetic Client 071 Group,Technology & Services,Family Office,CO
+A0072,Synthetic Client 072 Partners,Consumer,Public Company,NY
+A0073,Synthetic Client 073 Industries,Healthcare,Private Company,CA
+A0074,Synthetic Client 074 Capital,Industrial,Sponsor / PE,TX
+A0075,Synthetic Client 075 Holdings,Technology & Services,Family Office,IL
+A0076,Synthetic Client 076 Group,Consumer,Public Company,MA
+A0077,Synthetic Client 077 Partners,Healthcare,Private Company,WA
+A0078,Synthetic Client 078 Industries,Industrial,Sponsor / PE,FL
+A0079,Synthetic Client 079 Capital,Technology & Services,Family Office,CO
+A0080,Synthetic Client 080 Holdings,Consumer,Public Company,NY
+A0081,Synthetic Client 081 Group,Healthcare,Private Company,CA
+A0082,Synthetic Client 082 Partners,Industrial,Sponsor / PE,TX
+A0083,Synthetic Client 083 Industries,Technology & Services,Family Office,IL
+A0084,Synthetic Client 084 Capital,Consumer,Public Company,MA
+A0085,Synthetic Client 085 Holdings,Healthcare,Private Company,WA
+A0086,Synthetic Client 086 Group,Industrial,Sponsor / PE,FL
+A0087,Synthetic Client 087 Partners,Technology & Services,Family Office,CO
+A0088,Synthetic Client 088 Industries,Consumer,Public Company,NY
+A0089,Synthetic Client 089 Capital,Healthcare,Private Company,CA
+A0090,Synthetic Client 090 Holdings,Industrial,Sponsor / PE,TX
+A0091,Synthetic Client 091 Group,Technology & Services,Family Office,IL
+A0092,Synthetic Client 092 Partners,Consumer,Public Company,MA
+A0093,Synthetic Client 093 Industries,Healthcare,Private Company,WA
+A0094,Synthetic Client 094 Capital,Industrial,Sponsor / PE,FL
+A0095,Synthetic Client 095 Holdings,Technology & Services,Family Office,CO
+A0096,Synthetic Client 096 Group,Consumer,Public Company,NY
+A0097,Synthetic Client 097 Partners,Healthcare,Private Company,CA
+A0098,Synthetic Client 098 Industries,Industrial,Sponsor / PE,TX
+A0099,Synthetic Client 099 Capital,Technology & Services,Family Office,IL
+A0100,Synthetic Client 100 Holdings,Consumer,Public Company,MA
+A0101,Synthetic Client 101 Group,Healthcare,Private Company,WA
+A0102,Synthetic Client 102 Partners,Industrial,Sponsor / PE,FL
+A0103,Synthetic Client 103 Industries,Technology & Services,Family Office,CO
+A0104,Synthetic Client 104 Capital,Consumer,Public Company,NY
+A0105,Synthetic Client 105 Holdings,Healthcare,Private Company,CA
+A0106,Synthetic Client 106 Group,Industrial,Sponsor / PE,TX
+A0107,Synthetic Client 107 Partners,Technology & Services,Family Office,IL
+A0108,Synthetic Client 108 Industries,Consumer,Public Company,MA
+A0109,Synthetic Client 109 Capital,Healthcare,Private Company,WA
+A0110,Synthetic Client 110 Holdings,Industrial,Sponsor / PE,FL
+A0111,Synthetic Client 111 Group,Technology & Services,Family Office,CO
+A0112,Synthetic Client 112 Partners,Consumer,Public Company,NY
+A0113,Synthetic Client 113 Industries,Healthcare,Private Company,CA
+A0114,Synthetic Client 114 Capital,Industrial,Sponsor / PE,TX
+A0115,Synthetic Client 115 Holdings,Technology & Services,Family Office,IL
+A0116,Synthetic Client 116 Group,Consumer,Public Company,MA
+A0117,Synthetic Client 117 Partners,Healthcare,Private Company,WA
+A0118,Synthetic Client 118 Industries,Industrial,Sponsor / PE,FL
+A0119,Synthetic Client 119 Capital,Technology & Services,Family Office,CO
+A0120,Synthetic Client 120 Holdings,Consumer,Public Company,NY
+A0121,Synthetic Client 121 Group,Healthcare,Private Company,CA
+A0122,Synthetic Client 122 Partners,Industrial,Sponsor / PE,TX
+A0123,Synthetic Client 123 Industries,Technology & Services,Family Office,IL
+A0124,Synthetic Client 124 Capital,Consumer,Public Company,MA
+A0125,Synthetic Client 125 Holdings,Healthcare,Private Company,WA
+A0126,Synthetic Client 126 Group,Industrial,Sponsor / PE,FL
+A0127,Synthetic Client 127 Partners,Technology & Services,Family Office,CO
+A0128,Synthetic Client 128 Industries,Consumer,Public Company,NY
+A0129,Synthetic Client 129 Capital,Healthcare,Private Company,CA
+A0130,Synthetic Client 130 Holdings,Industrial,Sponsor / PE,TX
+A0131,Synthetic Client 131 Group,Technology & Services,Family Office,IL
+A0132,Synthetic Client 132 Partners,Consumer,Public Company,MA
+A0133,Synthetic Client 133 Industries,Healthcare,Private Company,WA
+A0134,Synthetic Client 134 Capital,Industrial,Sponsor / PE,FL
+A0135,Synthetic Client 135 Holdings,Technology & Services,Family Office,CO
+A0136,Synthetic Client 136 Group,Consumer,Public Company,NY
+A0137,Synthetic Client 137 Partners,Healthcare,Private Company,CA
+A0138,Synthetic Client 138 Industries,Industrial,Sponsor / PE,TX
+A0139,Synthetic Client 139 Capital,Technology & Services,Family Office,IL
+A0140,Synthetic Client 140 Holdings,Consumer,Public Company,MA
+A0141,Synthetic Client 141 Group,Healthcare,Private Company,WA
+A0142,Synthetic Client 142 Partners,Industrial,Sponsor / PE,FL
+A0143,Synthetic Client 143 Industries,Technology & Services,Family Office,CO
+A0144,Synthetic Client 144 Capital,Consumer,Public Company,NY
+A0145,Synthetic Client 145 Holdings,Healthcare,Private Company,CA
+A0146,Synthetic Client 146 Group,Industrial,Sponsor / PE,TX
+A0147,Synthetic Client 147 Partners,Technology & Services,Family Office,IL
+A0148,Synthetic Client 148 Industries,Consumer,Public Company,MA
+A0149,Synthetic Client 149 Capital,Healthcare,Private Company,WA
+A0150,Synthetic Client 150 Holdings,Industrial,Sponsor / PE,FL
+A0151,Synthetic Client 151 Group,Technology & Services,Family Office,CO
+A0152,Synthetic Client 152 Partners,Consumer,Public Company,NY
+A0153,Synthetic Client 153 Industries,Healthcare,Private Company,CA
+A0154,Synthetic Client 154 Capital,Industrial,Sponsor / PE,TX
+A0155,Synthetic Client 155 Holdings,Technology & Services,Family Office,IL
+A0156,Synthetic Client 156 Group,Consumer,Public Company,MA
+A0157,Synthetic Client 157 Partners,Healthcare,Private Company,WA
+A0158,Synthetic Client 158 Industries,Industrial,Sponsor / PE,FL
+A0159,Synthetic Client 159 Capital,Technology & Services,Family Office,CO
+A0160,Synthetic Client 160 Holdings,Consumer,Public Company,NY
+A0161,Synthetic Client 161 Group,Healthcare,Private Company,CA
+A0162,Synthetic Client 162 Partners,Industrial,Sponsor / PE,TX
+A0163,Synthetic Client 163 Industries,Technology & Services,Family Office,IL
+A0164,Synthetic Client 164 Capital,Consumer,Public Company,MA
+A0165,Synthetic Client 165 Holdings,Healthcare,Private Company,WA
+A0166,Synthetic Client 166 Group,Industrial,Sponsor / PE,FL
+A0167,Synthetic Client 167 Partners,Technology & Services,Family Office,CO
+A0168,Synthetic Client 168 Industries,Consumer,Public Company,NY
+A0169,Synthetic Client 169 Capital,Healthcare,Private Company,CA
+A0170,Synthetic Client 170 Holdings,Industrial,Sponsor / PE,TX
+A0171,Synthetic Client 171 Group,Technology & Services,Family Office,IL
+A0172,Synthetic Client 172 Partners,Consumer,Public Company,MA
+A0173,Synthetic Client 173 Industries,Healthcare,Private Company,WA
+A0174,Synthetic Client 174 Capital,Industrial,Sponsor / PE,FL
+A0175,Synthetic Client 175 Holdings,Technology & Services,Family Office,CO
+A0176,Synthetic Client 176 Group,Consumer,Public Company,NY
+A0177,Synthetic Client 177 Partners,Healthcare,Private Company,CA
+A0178,Synthetic Client 178 Industries,Industrial,Sponsor / PE,TX
+A0179,Synthetic Client 179 Capital,Technology & Services,Family Office,IL
+A0180,Synthetic Client 180 Holdings,Consumer,Public Company,MA
+A0181,Synthetic Client 181 Group,Healthcare,Private Company,WA
+A0182,Synthetic Client 182 Partners,Industrial,Sponsor / PE,FL
+A0183,Synthetic Client 183 Industries,Technology & Services,Family Office,CO
+A0184,Synthetic Client 184 Capital,Consumer,Public Company,NY
+A0185,Synthetic Client 185 Holdings,Healthcare,Private Company,CA
+A0186,Synthetic Client 186 Group,Industrial,Sponsor / PE,TX
+A0187,Synthetic Client 187 Partners,Technology & Services,Family Office,IL
+A0188,Synthetic Client 188 Industries,Consumer,Public Company,MA
+A0189,Synthetic Client 189 Capital,Healthcare,Private Company,WA
+A0190,Synthetic Client 190 Holdings,Industrial,Sponsor / PE,FL
+A0191,Synthetic Client 191 Group,Technology & Services,Family Office,CO
+A0192,Synthetic Client 192 Partners,Consumer,Public Company,NY
+A0193,Synthetic Client 193 Industries,Healthcare,Private Company,CA
+A0194,Synthetic Client 194 Capital,Industrial,Sponsor / PE,TX
+A0195,Synthetic Client 195 Holdings,Technology & Services,Family Office,IL
+A0196,Synthetic Client 196 Group,Consumer,Public Company,MA
+A0197,Synthetic Client 197 Partners,Healthcare,Private Company,WA
+A0198,Synthetic Client 198 Industries,Industrial,Sponsor / PE,FL
+A0199,Synthetic Client 199 Capital,Technology & Services,Family Office,CO
+A0200,Synthetic Client 200 Holdings,Consumer,Public Company,NY
+A0201,Synthetic Client 201 Group,Healthcare,Private Company,CA
+A0202,Synthetic Client 202 Partners,Industrial,Sponsor / PE,TX
+A0203,Synthetic Client 203 Industries,Technology & Services,Family Office,IL
+A0204,Synthetic Client 204 Capital,Consumer,Public Company,MA
+A0205,Synthetic Client 205 Holdings,Healthcare,Private Company,WA
+A0206,Synthetic Client 206 Group,Industrial,Sponsor / PE,FL
+A0207,Synthetic Client 207 Partners,Technology & Services,Family Office,CO
+A0208,Synthetic Client 208 Industries,Consumer,Public Company,NY
+A0209,Synthetic Client 209 Capital,Healthcare,Private Company,CA
+A0210,Synthetic Client 210 Holdings,Industrial,Sponsor / PE,TX
+A0211,Synthetic Client 211 Group,Technology & Services,Family Office,IL
+A0212,Synthetic Client 212 Partners,Consumer,Public Company,MA
+A0213,Synthetic Client 213 Industries,Healthcare,Private Company,WA
+A0214,Synthetic Client 214 Capital,Industrial,Sponsor / PE,FL
+A0215,Synthetic Client 215 Holdings,Technology & Services,Family Office,CO
+A0216,Synthetic Client 216 Group,Consumer,Public Company,NY
+A0217,Synthetic Client 217 Partners,Healthcare,Private Company,CA
+A0218,Synthetic Client 218 Industries,Industrial,Sponsor / PE,TX
+A0219,Synthetic Client 219 Capital,Technology & Services,Family Office,IL
+A0220,Synthetic Client 220 Holdings,Consumer,Public Company,MA
+A0221,Synthetic Client 221 Group,Healthcare,Private Company,WA
+A0222,Synthetic Client 222 Partners,Industrial,Sponsor / PE,FL
+A0223,Synthetic Client 223 Industries,Technology & Services,Family Office,CO
+A0224,Synthetic Client 224 Capital,Consumer,Public Company,NY
+A0225,Synthetic Client 225 Holdings,Healthcare,Private Company,CA
+A0226,Synthetic Client 226 Group,Industrial,Sponsor / PE,TX
+A0227,Synthetic Client 227 Partners,Technology & Services,Family Office,IL
+A0228,Synthetic Client 228 Industries,Consumer,Public Company,MA
+A0229,Synthetic Client 229 Capital,Healthcare,Private Company,WA
+A0230,Synthetic Client 230 Holdings,Industrial,Sponsor / PE,FL
+A0231,Synthetic Client 231 Group,Technology & Services,Family Office,CO
+A0232,Synthetic Client 232 Partners,Consumer,Public Company,NY
+A0233,Synthetic Client 233 Industries,Healthcare,Private Company,CA
+A0234,Synthetic Client 234 Capital,Industrial,Sponsor / PE,TX
+A0235,Synthetic Client 235 Holdings,Technology & Services,Family Office,IL
+A0236,Synthetic Client 236 Group,Consumer,Public Company,MA
+A0237,Synthetic Client 237 Partners,Healthcare,Private Company,WA
+A0238,Synthetic Client 238 Industries,Industrial,Sponsor / PE,FL
+A0239,Synthetic Client 239 Capital,Technology & Services,Family Office,CO
+A0240,Synthetic Client 240 Holdings,Consumer,Public Company,NY
+A0241,Synthetic Client 241 Group,Healthcare,Private Company,CA
+A0242,Synthetic Client 242 Partners,Industrial,Sponsor / PE,TX
+A0243,Synthetic Client 243 Industries,Technology & Services,Family Office,IL
+A0244,Synthetic Client 244 Capital,Consumer,Public Company,MA
+A0245,Synthetic Client 245 Holdings,Healthcare,Private Company,WA
+A0246,Synthetic Client 246 Group,Industrial,Sponsor / PE,FL
+A0247,Synthetic Client 247 Partners,Technology & Services,Family Office,CO
+A0248,Synthetic Client 248 Industries,Consumer,Public Company,NY
+A0249,Synthetic Client 249 Capital,Healthcare,Private Company,CA
+A0250,Synthetic Client 250 Holdings,Industrial,Sponsor / PE,TX
+A0251,Synthetic Client 251 Group,Technology & Services,Family Office,IL
+A0252,Synthetic Client 252 Partners,Consumer,Public Company,MA
+A0253,Synthetic Client 253 Industries,Healthcare,Private Company,WA
+A0254,Synthetic Client 254 Capital,Industrial,Sponsor / PE,FL
+A0255,Synthetic Client 255 Holdings,Technology & Services,Family Office,CO
+A0256,Synthetic Client 256 Group,Consumer,Public Company,NY
+A0257,Synthetic Client 257 Partners,Healthcare,Private Company,CA
+A0258,Synthetic Client 258 Industries,Industrial,Sponsor / PE,TX
+A0259,Synthetic Client 259 Capital,Technology & Services,Family Office,IL
+A0260,Synthetic Client 260 Holdings,Consumer,Public Company,MA
+A0261,Synthetic Client 261 Group,Healthcare,Private Company,WA
+A0262,Synthetic Client 262 Partners,Industrial,Sponsor / PE,FL
+A0263,Synthetic Client 263 Industries,Technology & Services,Family Office,CO
+A0264,Synthetic Client 264 Capital,Consumer,Public Company,NY
+A0265,Synthetic Client 265 Holdings,Healthcare,Private Company,CA
+A0266,Synthetic Client 266 Group,Industrial,Sponsor / PE,TX
+A0267,Synthetic Client 267 Partners,Technology & Services,Family Office,IL
+A0268,Synthetic Client 268 Industries,Consumer,Public Company,MA
+A0269,Synthetic Client 269 Capital,Healthcare,Private Company,WA
+A0270,Synthetic Client 270 Holdings,Industrial,Sponsor / PE,FL
+A0271,Synthetic Client 271 Group,Technology & Services,Family Office,CO
+A0272,Synthetic Client 272 Partners,Consumer,Public Company,NY
+A0273,Synthetic Client 273 Industries,Healthcare,Private Company,CA
+A0274,Synthetic Client 274 Capital,Industrial,Sponsor / PE,TX
+A0275,Synthetic Client 275 Holdings,Technology & Services,Family Office,IL
+A0276,Synthetic Client 276 Group,Consumer,Public Company,MA
+A0277,Synthetic Client 277 Partners,Healthcare,Private Company,WA
+A0278,Synthetic Client 278 Industries,Industrial,Sponsor / PE,FL
+A0279,Synthetic Client 279 Capital,Technology & Services,Family Office,CO
+A0280,Synthetic Client 280 Holdings,Consumer,Public Company,NY
+A0281,Synthetic Client 281 Group,Healthcare,Private Company,CA
+A0282,Synthetic Client 282 Partners,Industrial,Sponsor / PE,TX
+A0283,Synthetic Client 283 Industries,Technology & Services,Family Office,IL
+A0284,Synthetic Client 284 Capital,Consumer,Public Company,MA
+A0285,Synthetic Client 285 Holdings,Healthcare,Private Company,WA
+A0286,Synthetic Client 286 Group,Industrial,Sponsor / PE,FL
+A0287,Synthetic Client 287 Partners,Technology & Services,Family Office,CO
+A0288,Synthetic Client 288 Industries,Consumer,Public Company,NY
+A0289,Synthetic Client 289 Capital,Healthcare,Private Company,CA
+A0290,Synthetic Client 290 Holdings,Industrial,Sponsor / PE,TX
+A0291,Synthetic Client 291 Group,Technology & Services,Family Office,IL
+A0292,Synthetic Client 292 Partners,Consumer,Public Company,MA
+A0293,Synthetic Client 293 Industries,Healthcare,Private Company,WA
+A0294,Synthetic Client 294 Capital,Industrial,Sponsor / PE,FL
+A0295,Synthetic Client 295 Holdings,Technology & Services,Family Office,CO
+A0296,Synthetic Client 296 Group,Consumer,Public Company,NY
+A0297,Synthetic Client 297 Partners,Healthcare,Private Company,CA
+A0298,Synthetic Client 298 Industries,Industrial,Sponsor / PE,TX
+A0299,Synthetic Client 299 Capital,Technology & Services,Family Office,IL
+A0300,Synthetic Client 300 Holdings,Consumer,Public Company,MA
+A0301,Synthetic Client 301 Group,Healthcare,Private Company,WA
+A0302,Synthetic Client 302 Partners,Industrial,Sponsor / PE,FL
+A0303,Synthetic Client 303 Industries,Technology & Services,Family Office,CO
+A0304,Synthetic Client 304 Capital,Consumer,Public Company,NY
+A0305,Synthetic Client 305 Holdings,Healthcare,Private Company,CA
+A0306,Synthetic Client 306 Group,Industrial,Sponsor / PE,TX
+A0307,Synthetic Client 307 Partners,Technology & Services,Family Office,IL
+A0308,Synthetic Client 308 Industries,Consumer,Public Company,MA
+A0309,Synthetic Client 309 Capital,Healthcare,Private Company,WA
+A0310,Synthetic Client 310 Holdings,Industrial,Sponsor / PE,FL
+A0311,Synthetic Client 311 Group,Technology & Services,Family Office,CO
+A0312,Synthetic Client 312 Partners,Consumer,Public Company,NY
+A0313,Synthetic Client 313 Industries,Healthcare,Private Company,CA
+A0314,Synthetic Client 314 Capital,Industrial,Sponsor / PE,TX
+A0315,Synthetic Client 315 Holdings,Technology & Services,Family Office,IL
+A0316,Synthetic Client 316 Group,Consumer,Public Company,MA
+A0317,Synthetic Client 317 Partners,Healthcare,Private Company,WA
+A0318,Synthetic Client 318 Industries,Industrial,Sponsor / PE,FL
+A0319,Synthetic Client 319 Capital,Technology & Services,Family Office,CO
+A0320,Synthetic Client 320 Holdings,Consumer,Public Company,NY

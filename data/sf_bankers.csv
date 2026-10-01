@@ -1,0 +1,77 @@
+banker_id,banker_name,level,industry_group,capacity_deals,capacity_hours_per_week,is_active,hire_date
+B0001,Avery Patel,Analyst,Healthcare,6,45,True,2016-09-27
+B0002,Devon Davis,Analyst,Industrial,6,45,True,2022-05-13
+B0003,Morgan Foster,Analyst,Technology & Services,6,45,True,2021-05-20
+B0004,Chris Nguyen,Analyst,Consumer,6,45,True,2019-08-12
+B0005,Jesse Park,Analyst,Healthcare,6,45,True,2019-07-26
+B0006,Avery Patel,Analyst,Industrial,6,45,True,2023-01-22
+B0007,Devon Davis,Analyst,Technology & Services,6,45,True,2016-09-17
+B0008,Morgan Foster,Analyst,Consumer,6,45,True,2021-09-26
+B0009,Chris Nguyen,Analyst,Healthcare,6,45,True,2017-08-30
+B0010,Jesse Park,Analyst,Industrial,6,45,True,2016-10-12
+B0011,Avery Patel,Analyst,Technology & Services,6,45,True,2020-05-01
+B0012,Devon Davis,Analyst,Consumer,6,45,True,2024-01-08
+B0013,Morgan Foster,Analyst,Healthcare,6,45,True,2022-01-19
+B0014,Chris Nguyen,Analyst,Industrial,6,45,True,2022-04-05
+B0015,Jesse Park,Analyst,Technology & Services,6,45,True,2021-11-25
+B0016,Avery Patel,Analyst,Consumer,6,45,True,2022-06-19
+B0017,Devon Davis,Analyst,Healthcare,6,45,True,2020-03-22
+B0018,Morgan Foster,Analyst,Industrial,6,45,True,2017-01-22
+B0019,Chris Nguyen,Analyst,Technology & Services,6,45,True,2022-11-27
+B0020,Jesse Park,Analyst,Consumer,6,45,True,2019-09-16
+B0021,Avery Patel,Analyst,Healthcare,6,45,True,2020-02-13
+B0022,Devon Davis,Analyst,Industrial,6,45,True,2019-01-20
+B0023,Morgan Foster,Analyst,Technology & Services,6,45,True,2017-07-04
+B0024,Chris Nguyen,Analyst,Consumer,6,45,True,2023-08-15
+B0025,Devon Park,Associate,Healthcare,5,42,True,2022-06-05
+B0026,Morgan Patel,Associate,Industrial,5,42,True,2021-04-18
+B0027,Chris Davis,Associate,Technology & Services,5,42,True,2019-04-25
+B0028,Jesse Foster,Associate,Consumer,5,42,True,2022-10-07
+B0029,Avery Nguyen,Associate,Healthcare,5,42,True,2020-06-27
+B0030,Devon Park,Associate,Industrial,5,42,True,2019-08-26
+B0031,Morgan Patel,Associate,Technology & Services,5,42,True,2019-09-16
+B0032,Chris Davis,Associate,Consumer,5,42,True,2017-11-15
+B0033,Jesse Foster,Associate,Healthcare,5,42,True,2016-10-06
+B0034,Avery Nguyen,Associate,Industrial,5,42,True,2020-07-24
+B0035,Devon Park,Associate,Technology & Services,5,42,True,2023-04-20
+B0036,Morgan Patel,Associate,Consumer,5,42,True,2016-07-13
+B0037,Chris Davis,Associate,Healthcare,5,42,True,2023-01-21
+B0038,Jesse Foster,Associate,Industrial,5,42,True,2022-10-21
+B0039,Avery Nguyen,Associate,Technology & Services,5,42,True,2018-04-13
+B0040,Devon Park,Associate,Consumer,5,42,True,2021-03-12
+B0041,Morgan Patel,Associate,Healthcare,5,42,True,2017-05-13
+B0042,Chris Davis,Associate,Industrial,5,42,True,2022-03-27
+B0043,Jesse Foster,Associate,Technology & Services,5,42,True,2021-10-05
+B0044,Avery Nguyen,Associate,Consumer,5,42,True,2018-12-02
+B0045,Devon Park,VP,Healthcare,4,40,True,2016-07-25
+B0046,Morgan Patel,VP,Industrial,4,40,True,2023-12-25
+B0047,Chris Davis,VP,Technology & Services,4,40,True,2019-09-02
+B0048,Jesse Foster,VP,Consumer,4,40,True,2023-05-06
+B0049,Avery Nguyen,VP,Healthcare,4,40,True,2021-07-29
+B0050,Devon Park,VP,Industrial,4,40,True,2022-05-27
+B0051,Morgan Patel,VP,Technology & Services,4,40,True,2022-04-01
+B0052,Chris Davis,VP,Consumer,4,40,True,2017-08-09
+B0053,Jesse Foster,VP,Healthcare,4,40,True,2018-12-30
+B0054,Avery Nguyen,VP,Industrial,4,40,True,2019-11-04
+B0055,Devon Park,VP,Technology & Services,4,40,True,2020-02-05
+B0056,Morgan Patel,VP,Consumer,4,40,True,2016-05-14
+B0057,Chris Davis,VP,Healthcare,4,40,True,2020-06-30
+B0058,Jesse Foster,VP,Industrial,4,40,True,2017-04-10
+B0059,Robin Ali,Executive Director,Technology & Services,3,38,True,2022-02-11
+B0060,Jordan Kim,Executive Director,Consumer,3,38,True,2021-08-14
+B0061,Drew O'Brien,Executive Director,Healthcare,3,38,True,2023-08-02
+B0062,Finley Johnson,Executive Director,Industrial,3,38,True,2022-02-15
+B0063,Riley Chen,Executive Director,Technology & Services,3,38,True,2019-01-07
+B0064,Robin Ali,Executive Director,Consumer,3,38,True,2023-12-15
+B0065,Jordan Kim,Executive Director,Healthcare,3,38,True,2019-05-20
+B0066,Drew O'Brien,Executive Director,Industrial,3,38,True,2018-09-07
+B0067,Finley Johnson,Executive Director,Technology & Services,3,38,True,2023-06-12
+B0068,Riley Chen,Executive Director,Consumer,3,38,True,2019-01-19
+B0069,Morgan Nguyen,Managing Director,Healthcare,3,35,True,2016-08-20
+B0070,Chris Park,Managing Director,Industrial,3,35,True,2019-11-12
+B0071,Jesse Patel,Managing Director,Technology & Services,3,35,True,2022-07-18
+B0072,Avery Davis,Managing Director,Consumer,3,35,True,2017-07-25
+B0073,Devon Foster,Managing Director,Healthcare,3,35,True,2019-10-23
+B0074,Morgan Nguyen,Managing Director,Industrial,3,35,True,2017-01-27
+B0075,Chris Park,Managing Director,Technology & Services,3,35,True,2021-08-24
+B0076,Jesse Patel,Managing Director,Consumer,3,35,True,2019-12-01
